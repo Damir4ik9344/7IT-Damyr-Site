@@ -4,20 +4,56 @@
     justify-content: center;
     align-items: center;
     
+    color: rgb(0, 0, 2);
+    font-size: 48px;
+}
+
+.header-title {
     
-    
-    
-    
-    
-    color: rgb(56, 10, 181);
-    font-size: 100px;
+background-color: rgb(148, 218, 37); 
 
 
+display: flex;
 
+justify-content: center;
+align-items: center;
+
+color: rgb(255, 255, 255);
+font-size: 100px;
+    
+}
+
+.header-text {
+
+display: flex;
+
+justify-content: center;
+align-items: center;
+
+color: rgb(0, 0, 0);
+font-size: 48px;
+    
+}
+
+.header{
 
 
 
 }
+
+.container{
+
+    
+
+
+
+}
+
+
+
+
+
+
 
 
 
